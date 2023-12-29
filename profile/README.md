@@ -4,8 +4,6 @@
 
 Areon Network is developing Areon Chain, where anyone can build new dApps, perform daily interactions of sending and receiving payments instantly for incredibly low fees.
 
-## Community
-
 ## Useful Links
 
 - X (fka Twitter): [@AreonNetwork](https://x.com/AreonNetwork)
