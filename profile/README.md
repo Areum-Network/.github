@@ -22,5 +22,4 @@ Areon Network is developing Areon Chain, where anyone can build new dApps, perfo
 - Telegram:
   - [Global](https://t.me/areonnetwork)
   - [Turkey](https://t.me/areonnetworkturkey)
-  - [China](https://t.me/areonnetworkchina)
   - [Announcements](https://t.me/areonnetworkannouncement)
