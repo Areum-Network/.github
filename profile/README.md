@@ -15,4 +15,4 @@ Areum Network is developing Areum, where anyone can build new dApps, perform dai
 - Medium: [areumnetwork.medium.com](https://areumnetwork.medium.com)
 - Reddit: [r/areumnetwork](https://www.reddit.com/r/areumnetwork/)
 - GitHub: [github.com/Areum-Network](https://github.com/Areum-Network)
-- Telegram: [@AreumNetwork](https://t.me/AreumNetwork)
+- Telegram: [@areumglobal](https://t.me/areumglobal)
