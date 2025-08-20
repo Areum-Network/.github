@@ -6,9 +6,9 @@ Areum Network is developing Areum, where anyone can build new dApps, perform dai
 
 ## Useful Links
 
-- X (fka Twitter): [@AreumNetwork](https://x.com/AreumNetwork)
-- Discord: [discord.gg/AreumNetwork](https://discord.gg/AreumNetwork)
-- Instagram: [@AreumNetwork](https://instagram.com/AreumNetwork)
+- X (fka Twitter): [@Areum_Global](https://x.com/areum_global)
+- Discord: [discord.gg/DrAp8Fd2k8](https://discord.gg/DrAp8Fd2k8)
+- Instagram: [@Areum_Global](https://instagram.com/Areum_Global)
 - Website: [areum.network](https://areum.network)
 - Areum Blockchain Explorer: [explorer.areum.network](https://explorer.areum.network)
 - LinkedIn: [linkedin.com/company/areum-network](https://www.linkedin.com/company/areum-network)
